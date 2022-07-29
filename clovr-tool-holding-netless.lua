@@ -1721,7 +1721,7 @@ end
 character.ChildAdded:Connect(function(v)
     if not v:IsA("Tool") then return end
     wait(0.2)
-    local fake = v.Handle:Clone()
+    local fake = v:Clone()
     fake.Name = "fake"
     fake.Parent = character
     fake.Massless = true

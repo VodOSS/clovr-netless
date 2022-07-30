@@ -14,7 +14,7 @@ end
 
 
 --[[---------Settings---------]]--
-local bodyVelocity = {0, 35, 0} --Change your body parts' velocity. First number value is the X value. Second number value is the Y value. Third number value is the Z value.
+local bodyVelocity = {0, 45, 0} --Change your body parts' velocity. First number value is the X value. Second number value is the Y value. Third number value is the Z value.
 local hrpVelocity = {-17.7, 0, -17.7} --Change your hrp's velocity. First number value is the X value. Second number value is the Y value. Third number value is the Z value.
 local hatVelocity = {-17.7, 0, -17.7} --Change all of your accessories' velocity. First number value is the X value. Second number value is the Y value. Third number value is the Z value.
 local toolVelocity = {-17.7, 0, -17.7} --Change all of your tools' velocity. First number value is the X value. Second number value is the Y value. Third number value is the Z value.
